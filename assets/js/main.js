@@ -191,8 +191,8 @@ for(i = 0; i < item.length; i++) {
         modal.style.display = 'flex';
         titleModal.innerText = title;
 
-        if(titleModal.innerText === 'HTML5') {
-            textModal.innerText = `HTML5 is a markup language for the World Wide Web and is a key Internet technology, originally proposed by Opera Software. It is the fifth version of the HTML language. My goal is to make a semantic HTML code making your site appear more and more in searches.`;
+        if(titleModal.innerText === 'Flutter') {
+            textModal.innerText = `Flutter is an open source application development framework created by Google. It is used to build native user interfaces (UI) for mobile, web and desktop applications from a single source code. Flutter was initially launched in 2017 and has been gaining popularity due to its ability to create attractive and highly performant applications on various platforms.`;
         } else if(titleModal.innerText === 'CSS3') {
             textModal.innerText = `CSS3 is the third newest version of the famous Cascading Style Sheets, through which you define styles for a web project. With transition effects, image, background image and others, you can create unique styles for your web projects, changing different design aspects in the page layout. I make responsive websites that adapt to the user's layout, whether desktop or mobile.`
         } else if(titleModal.innerText === 'JavaScript') {
