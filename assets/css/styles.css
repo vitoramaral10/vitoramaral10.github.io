@@ -184,7 +184,7 @@
     min-height: 20rem;
     max-height: 20rem;
     border-radius: 100%;
-    background-image: url(/assets/img/foto.svg);
+    background-image: url(/assets/img/foto.jfif);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -1397,8 +1397,6 @@ label,
     .container-skill {
         display: grid;
         width: 100%;
-        max-width: 20rem;
-        gap: var(--layout-regular);
     }
 
     .item {
